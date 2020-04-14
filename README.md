@@ -3,7 +3,7 @@
 
 Submitted by: **Slavyana Nedelcheva**
 
-Time spent: **15* hours spent in total
+Time spent: **15** hours spent in total
 
 ## User Stories
 
@@ -15,6 +15,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
+* [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** 
+
 * [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
 The following **additional** features are implemented:
@@ -25,17 +27,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Understanding Java, since I have not use it before. Learning Android Studio and GitHub and how to work with errors. I had hard time to set up git, so I had to start from the beginning twice and look for additional resources. The first project is not for beginners, but I like the video shows the whole picture so students can get straight to applying programming skills into real-world situations. I still need to go over everything again to make sure I can do the project without using tutorials. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Slavyana Nedelcheva]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
