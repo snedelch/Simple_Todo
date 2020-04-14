@@ -33,7 +33,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 Understanding Java, since I have not use it before. Learning Android Studio and GitHub and how to work with errors. I had hard time to set up git, so I had to start from the beginning twice and look for additional resources. The first project is not for beginners, but I like the video shows the whole picture so students can get straight to applying programming skills into real-world situations. I still need to go over everything again to make sure I can do the project without using tutorials. 
 
 ## License
